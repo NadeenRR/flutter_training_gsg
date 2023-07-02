@@ -143,4 +143,13 @@
     - [Question](https://drive.google.com/file/d/1kEVF3fecl7VEXhiBLIhwYdAn4lUzx-h6/view)
     - [Answer](https://github.com/oalshokri/rps_game_flutter_tt9)
 
-
+## Level 7️⃣:-
+#### 📢 Variables, Functions, and Dart Basics
+                
++ **Sessions** 👨‍🏫
+    - [Session 07](https://www.youtube.com/watch?v=owwKgB2lDMU)
+   
++ **Resources** 📚
+    - [Library Tour](https://dart.dev/guides/libraries/library-tour?authuser=0)
+    - [Records](https://dart.dev/language/records?authuser=0)
+    - [Collections](https://dart.dev/language/collections?authuser=0#lists)
