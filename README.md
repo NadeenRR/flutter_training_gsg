@@ -68,3 +68,32 @@
     - [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
     - [Introduction to widgets](https://docs.flutter.dev/ui/widgets-intro)
     - [Image asset constructor](https://api.flutter.dev/flutter/widgets/Image/Image.asset.html)
+  
+## Level 3️⃣:-
+#### 📢 Creating Beautiful UI with Flutter - P1
+                
++ **Sessions** 👨‍🏫
+    - [Session 03](https://www.youtube.com/live/wFFe4aNDwyc?feature=share)
+   
++ **Resources** 📚
+    - [Container class](https://api.flutter.dev/flutter/widgets/Container-class.html)
+    - [SafeArea class](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)
+
+## Level 4️⃣:-
+#### 📢 Creating Beautiful UI with Flutter - P2
+                
++ **Sessions** 👨‍🏫
+    - [Session 04](https://www.youtube.com/watch?v=6IONfoLVmQQ)
+   
++ **Resources** 📚
+    - [Basic Flutter layout concepts](https://docs.flutter.dev/codelabs/layout-basics?authuser=0)
+    - [Flutter example apps](https://github.com/flutter/website/tree/main/examples/layout/card_and_stack?authuser=0)
+    - [Building layouts](https://docs.flutter.dev/ui/layout/tutorial?authuser=0)
+    - [Layouts in Flutter](https://docs.flutter.dev/ui/layout?authuser=0)
+    - [CircleAvatar class](https://api.flutter.dev/flutter/material/CircleAvatar-class.html?authuser=0)
+    - [Material UI](https://materialui.co/colors/?authuser=0)
+
++ **Assignment** 👨‍🏫
+    - [Question](https://classroom.google.com/c/NjA3NTUyNzE3NjM2/a/NjEwODI4NjAxMzU5/details)
+    - [Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment4)
+
