@@ -37,3 +37,20 @@
 
 + **Syllabus and Training plan** 📖
     - [Training plan](https://classroom.google.com/c/NjA3NTUyNzE3NjM2/m/NTUzNzI1MzgyODA1/details)
+
+
+## Level 1️⃣:-
+#### 📢 Introduction to App Development with Flutter
+                
++ **Sessions** 👨‍🏫
+    - [Session 01](https://www.youtube.com/watch?v=1hCqY0gFKBI)
+   
++ **Tools** ⚒
+    - [DatrPad](https://dartpad.dev/?authuser=0)
+    - [Install](https://docs.flutter.dev/get-started/install)
+
++ **Resources** 📚
+    - [Flutter](https://flutter.dev/)
+    - [Material Design](https://m3.material.io/)
+    - [Flutter vs React Native](https://www.thedroidsonroids.com/blog/flutter-vs-react-native-what-to-choose)
+    - [Cross-Platform Mobile Development](https://www.sam-solutions.com/blog/cross-platform-mobile-development/)
