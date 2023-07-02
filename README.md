@@ -93,7 +93,6 @@
     - [CircleAvatar class](https://api.flutter.dev/flutter/material/CircleAvatar-class.html?authuser=0)
     - [Material UI](https://materialui.co/colors/?authuser=0)
 
-+ **Assignment** 👨‍🏫
-    - [Question](https://classroom.google.com/c/NjA3NTUyNzE3NjM2/a/NjEwODI4NjAxMzU5/details)
-    - [Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment4)
++ **Assignment** 👨‍🏫 
+    - [Question && Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment4)
 
