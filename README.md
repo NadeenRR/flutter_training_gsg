@@ -93,7 +93,7 @@
     - [CircleAvatar class](https://api.flutter.dev/flutter/material/CircleAvatar-class.html?authuser=0)
     - [Material UI](https://materialui.co/colors/?authuser=0)
 
-+ **Assignment** 👨‍🏫 
++ **Assignment** ✍ 
     - [Question && Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment4)
 
 
@@ -116,7 +116,7 @@
     - [Stack Widgets](https://www.youtube.com/watch?v=_t1nEcOgqes)
     - [Stack Example](https://gist.github.com/oalshokri/758e9f9731734a7a7478927623ab048f)
 
-+ **Assignment** 👨‍🏫
++ **Assignment** ✍
     - [Question](https://drive.google.com/file/d/1J1Y6RygBQlzrOlzhaVj0sDzcWmvjHxFo/view)
     - [Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment5)
 
@@ -139,7 +139,7 @@
     - [Built-in types](https://dart.dev/language/built-in-types?authuser=0)
 
 
-+ **Assignment** 👨‍🏫
++ **Assignment** ✍
     - [Question](https://drive.google.com/file/d/1kEVF3fecl7VEXhiBLIhwYdAn4lUzx-h6/view)
     - [Answer](https://github.com/oalshokri/rps_game_flutter_tt9)
 
@@ -171,7 +171,7 @@
     - [audioplayers](https://pub.dev/packages/audioplayers?authuser=0)
 
 
-+ **Assignment** 👨‍🏫
++ **Assignment** ✍
     - [Piano](https://pub.dev/packages/piano?authuser=0)
     - [flutter_midi](https://pub.dev/packages/flutter_midi?authuser=0)
     - [Best of Guitars](https://drive.google.com/file/d/1RRt4WjhqouURFlhFkOHmbjMwL-9anjgj/view)
