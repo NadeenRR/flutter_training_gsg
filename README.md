@@ -1,1 +1,1 @@
-# flutter_training_gsg
+# Flutter Training (GSG)
