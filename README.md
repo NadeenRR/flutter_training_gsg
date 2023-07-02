@@ -96,3 +96,45 @@
 + **Assignment** 👨‍🏫 
     - [Question && Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment4)
 
+
+## Level 5️⃣:-
+#### 📢 Creating Beautiful UI with Flutter - P3
+                
++ **Sessions** 👨‍🏫
+    - [Session 05](https://www.youtube.com/watch?v=t-Sm7HK3Gug)
+   
++ **Resources** 📚
+    - [Colors class](https://api.flutter.dev/flutter/material/Colors-class.html?gclid=Cj0KCQjwyLGjBhDKARIsAFRNgW9tiiCIKQvdgLI5weB_UgW4z-XyN4_0r4AUwgBtzuuYuGgiyQocH5YaAnGKEALw_wcB&gclsrc=aw.ds&authuser=0)
+    - [Color class](https://api.flutter.dev/flutter/dart-ui/Color-class.html?authuser=0)
+    - [Classes](https://dart.dev/language/classes?authuser=0)
+    - [Constructors](https://dart.dev/language/constructors?authuser=0)
+    - [Stack class](https://api.flutter.dev/flutter/widgets/Stack-class.html?gclid=Cj0KCQjwyLGjBhDKARIsAFRNgW-meHIWo5ZMQh9XRftEoOTQ-n7eLCLXQTcqvFpM0J0izNe9S3XXn_MaAoJYEALw_wcB&gclsrc=aw.ds&authuser=0)
+    - [Card class](https://api.flutter.dev/flutter/material/Card-class.html?authuser=0)
+    - [ListTile class](https://api.flutter.dev/flutter/material/ListTile-class.html)
+    - [Padding class](https://api.flutter.dev/flutter/widgets/Padding-class.html?authuser=0)
+    - [Use a custom font](https://docs.flutter.dev/cookbook/design/fonts?authuser=0)
+    - [Stack Widgets](https://www.youtube.com/watch?v=_t1nEcOgqes)
+    - [Stack Example](https://gist.github.com/oalshokri/758e9f9731734a7a7478927623ab048f)
+
++ **Assignment** 👨‍🏫
+    - [Question](https://drive.google.com/file/d/1J1Y6RygBQlzrOlzhaVj0sDzcWmvjHxFo/view)
+    - [Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment5)
+
+
+## Level 6️⃣:-
+#### 📢 Building apps with State
+                
++ **Sessions** 👨‍🏫
+    - [Session 06](https://www.youtube.com/watch?v=jO8A7TfwsSs)
+   
++ **Resources** 📚
+    - [Expanded class](https://api.flutter.dev/flutter/widgets/Expanded-class.html?authuser=0)
+    - [Image class](https://api.flutter.dev/flutter/widgets/Image-class.html?authuser=0)
+    - [New Buttons](https://docs.flutter.dev/release/breaking-changes/buttons?gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF_IUMnw3h89AwJmrYuEY4YCEEmsQFUwfLUYIMfkdGBxIU4YXbXmELIaAlVwEALw_wcB&gclsrc=aw.ds&authuser=0)
+    - [TextButton class](https://api.flutter.dev/flutter/material/TextButton-class.html?gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF8920_4IFmzD-vgk4fqXsWuBWrQGQZP6pILBJTCdoyALAvrC0VmhVkaAvJJEALw_wcB&gclsrc=aw.ds&authuser=0)
+    - [Random class](https://api.flutter.dev/flutter/dart-math/Random-class.html?gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF8WAXRN7eDydZmgcNBGegErXvbsYUcloo6e1OzmWkgJIbQkov3trskaAsKBEALw_wcB&gclsrc=aw.ds&authuser=0)
+    - [GestureDetector class](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html?gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF8D6heNojSpua98QvfhAZ09btA2Dk3qACTo87VOWRqVRoNPMc_qGjIaAks0EALw_wcB&gclsrc=aw.ds&authuser=0)
+    - [Functions](https://dart.dev/language/functions?authuser=0)
+    - [Variables](https://dart.dev/language/variables)
+    - [Built-in types](https://dart.dev/language/built-in-types?authuser=0)
+
