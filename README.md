@@ -54,3 +54,17 @@
     - [Material Design](https://m3.material.io/)
     - [Flutter vs React Native](https://www.thedroidsonroids.com/blog/flutter-vs-react-native-what-to-choose)
     - [Cross-Platform Mobile Development](https://www.sam-solutions.com/blog/cross-platform-mobile-development/)
+
+## Level 2️⃣:-
+#### 📢 Anatomy of the First Flutter App
+                
++ **Sessions** 👨‍🏫
+    - [Session 02](https://www.youtube.com/live/1cfSfKadmQM?feature=share)
+   
++ **Resources** 📚
+    - [Change Flutter App Launcher Icon](https://medium.com/flutter-community/change-flutter-app-launcher-icon-59c31bcd7554)
+    - [Adding App icons to Your Flutter Apps](https://www.youtube.com/watch?v=hpQenyqxTmw)
+    - [Change App Icon and App Name](https://www.youtube.com/watch?v=eMHbgIgJyUQ)
+    - [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
+    - [Introduction to widgets](https://docs.flutter.dev/ui/widgets-intro)
+    - [Image asset constructor](https://api.flutter.dev/flutter/widgets/Image/Image.asset.html)
