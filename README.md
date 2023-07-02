@@ -179,3 +179,26 @@
     - [Yamaha-Grand-Lite-SF](https://drive.google.com/file/d/1ycAsDQRwR18UgR1j32ASK969Zazu54rA/view)
     - [Free Quality SoundFonts](https://sites.google.com/site/soundfonts4u/?pli=1&authuser=0)
     - [Screen Recording](https://drive.google.com/file/d/1JqSCXALTC1X8l7n-17DobFZg0J-QOE-r/view)  
+
+## Level 9️⃣:-
+#### 📢 Leveraging Flutter Packages to Speed up development
+                
++ **Sessions** 👨‍🏫
+    - [Session 09](https://www.youtube.com/watch?v=Ever8KtEVvo)
+   
++ **Resources** 📚
+    - [State](https://api.flutter.dev/flutter/widgets/State-class.html?authuser=0)
+    - [DropdownButton](https://api.flutter.dev/flutter/material/DropdownButton-class.html?authuser=0)
+    - [url_launcher](https://pub.dev/packages/url_launcher?authuser=0)
+    - [multi_instruments](https://github.com/oalshokri/multi_instruments_tt9/blob/master/lib/main.dart)
+
+
+## Level 🔟:-
+#### 📢 Structuring Flutter Apps
+                
++ **Sessions** 👨‍🏫
+    - [Session 10](https://www.youtube.com/watch?v=T-XlnM5y38o)
+   
++ **Resources** 📚
+    - [rflutter_alert](https://pub.dev/packages/rflutter_alert?authuser=0)
+    - [Methods](https://dart.dev/language/methods?authuser=0)
