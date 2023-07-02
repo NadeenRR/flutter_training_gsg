@@ -194,7 +194,7 @@
 
 
 ## Level 🔟:-
-#### 📢 Structuring Flutter Apps
+#### 📢 Structuring Flutter Apps - P1
                 
 + **Sessions** 👨‍🏫
     - [Session 10](https://www.youtube.com/watch?v=T-XlnM5y38o)
@@ -218,3 +218,16 @@
     - [CircularProgressIndicator class](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html?authuser=0)
     - [OutlinedButton class](https://api.flutter.dev/flutter/material/OutlinedButton-class.html?authuser=0)
     - [multi_quiz](https://github.com/oalshokri/multi_quiz_s_t_tt9?authuser=0)
+
+## Level 1️⃣2️⃣:-
+#### 📢 Structuring Flutter Apps - P3
+                
++ **Sessions** 👨‍🏫
+    - [Session 12](https://www.youtube.com/watch?v=aVmpnCz0V1s)
+   
++ **Resources** 📚
+    - [Cookbook](https://docs.flutter.dev/cookbook?authuser=0#navigation)
+    - [Navigate](https://docs.flutter.dev/cookbook/navigation/navigation-basics?authuser=0)
+    - [Navigate with named](https://docs.flutter.dev/cookbook/navigation/named-routes?authuser=0)
+    - [Navigator class](https://api.flutter.dev/flutter/widgets/Navigator-class.html?authuser=0)
+    - [Timer](https://drive.google.com/file/d/1iZDaWxs8B3VMWchZcV7tryyidIs2nRDg/view)
