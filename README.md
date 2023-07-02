@@ -153,3 +153,29 @@
     - [Library Tour](https://dart.dev/guides/libraries/library-tour?authuser=0)
     - [Records](https://dart.dev/language/records?authuser=0)
     - [Collections](https://dart.dev/language/collections?authuser=0#lists)
+
+## Level 8️⃣:-
+#### 📢 Leveraging Flutter Packages to Speed up development
+                
++ **Sessions** 👨‍🏫
+    - [Session 08](https://www.youtube.com/watch?v=Tlu3DmhKB4k)
+   
++ **Resources** 📚
+    - [Animation and motion widgets](https://docs.flutter.dev/ui/widgets/animation?authuser=0)
+    - [AnimatedOpacity class](https://api.flutter.dev/flutter/widgets/AnimatedOpacity-class.html?authuser=0)
+    - [AnimatedRotation class](https://api.flutter.dev/flutter/widgets/AnimatedRotation-class.html?authuser=0)
+    - [AnimatedScale class](https://api.flutter.dev/flutter/widgets/AnimatedScale-class.html?authuser=0)
+    - [Curves class](https://api.flutter.dev/flutter/animation/Curves-class.html?authuser=0)
+    - [PubDev](https://pub.dev/?authuser=0)
+    - [english_words](https://pub.dev/packages/english_words?authuser=0)
+    - [audioplayers](https://pub.dev/packages/audioplayers?authuser=0)
+
+
++ **Assignment** 👨‍🏫
+    - [Piano](https://pub.dev/packages/piano?authuser=0)
+    - [flutter_midi](https://pub.dev/packages/flutter_midi?authuser=0)
+    - [Best of Guitars](https://drive.google.com/file/d/1RRt4WjhqouURFlhFkOHmbjMwL-9anjgj/view)
+    - [Expressive Flute SSO](https://drive.google.com/file/d/1W_AXRgdfUdUVC6ZguY7QK3kH4lDb00FV/view)
+    - [Yamaha-Grand-Lite-SF](https://drive.google.com/file/d/1ycAsDQRwR18UgR1j32ASK969Zazu54rA/view)
+    - [Free Quality SoundFonts](https://sites.google.com/site/soundfonts4u/?pli=1&authuser=0)
+    - [Screen Recording](https://drive.google.com/file/d/1JqSCXALTC1X8l7n-17DobFZg0J-QOE-r/view)  
