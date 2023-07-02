@@ -202,3 +202,19 @@
 + **Resources** 📚
     - [rflutter_alert](https://pub.dev/packages/rflutter_alert?authuser=0)
     - [Methods](https://dart.dev/language/methods?authuser=0)
+
+
+## Level 1️⃣1️⃣:-
+#### 📢 Structuring Flutter Apps - P2
+                
++ **Sessions** 👨‍🏫
+    - [Session 11](https://www.youtube.com/watch?v=4mn1GFbbJa0)
+   
++ **Resources** 📚
+    - [Quiz App Example](https://dribbble.com/tags/quiz%20app?authuser=0)
+    - [Quiz App UI](https://dribbble.com/shots/15846004-Trivia-Quiz-Game-App/attachments/7665785?mode=media&authuser=0)
+    - [Radio class](https://api.flutter.dev/flutter/material/Radio-class.html?authuser=0)
+    - [ButtonStyle class](https://api.flutter.dev/flutter/material/ButtonStyle-class.html?authuser=0)
+    - [CircularProgressIndicator class](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html?authuser=0)
+    - [OutlinedButton class](https://api.flutter.dev/flutter/material/OutlinedButton-class.html?authuser=0)
+    - [multi_quiz](https://github.com/oalshokri/multi_quiz_s_t_tt9?authuser=0)
