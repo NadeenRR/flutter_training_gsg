@@ -250,3 +250,16 @@
                 
 + **Sessions** 👨‍🏫
     - [Session 14](https://www.youtube.com/watch?v=-8Nwv3lsDjQ)
+
+## Level 1️⃣5️⃣:-
+#### 📢 creating beautiful UI with flutter for intermediates
+                
++ **Sessions** 👨‍🏫
+    - [Session 15](https://www.youtube.com/watch?v=aHENFh5leLo)
+   
++ **Resources** 📚
+    - [Use themes to share colors and font styles]([https://docs.flutter.dev/cookbook?authuser=0#navigation](https://docs.flutter.dev/cookbook/design/themes))
+    - [ThemeData class](https://api.flutter.dev/flutter/material/ThemeData-class.html)
+    - [Color class](https://api.flutter.dev/flutter/dart-ui/Color-class.html)
+    - [Colors class](https://api.flutter.dev/flutter/material/Colors-class.html)
+    - [Hex to Decimal](https://byjus.com/maths/hex-to-decimal/)
