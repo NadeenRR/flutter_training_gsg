@@ -93,9 +93,13 @@
     - [CircleAvatar class](https://api.flutter.dev/flutter/material/CircleAvatar-class.html?authuser=0)
     - [Material UI](https://materialui.co/colors/?authuser=0)
 
-+ **Assignment** ✍ 
-    - [Question && Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment4)
-
++ **Assignment** ✍
+#### Question
+ - Create new Flutter App with your name and the number of assignment.
+ - Change the App icon to your own.
+ - Create two dart file on the lib folder, and code the two attached design.
+    
+  - [Question && Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment4)
 
 ## Level 5️⃣:-
 #### 📢 Creating Beautiful UI with Flutter - P3
@@ -117,9 +121,12 @@
     - [Stack Example](https://gist.github.com/oalshokri/758e9f9731734a7a7478927623ab048f)
 
 + **Assignment** ✍
-    - [Question](https://drive.google.com/file/d/1J1Y6RygBQlzrOlzhaVj0sDzcWmvjHxFo/view)
-    - [Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment5)
-
+#### Question
+  - Create new Flutter App with your name and the number of assignment.
+  - Create two dart file on the lib folder, and code the two attached design.
+   
+  - [Question](https://drive.google.com/file/d/1J1Y6RygBQlzrOlzhaVj0sDzcWmvjHxFo/view)
+  - [Answer](https://github.com/NadeenRR/gsg_assignments/tree/main/lib/assignment5)
 
 ## Level 6️⃣:-
 #### 📢 Building apps with State
@@ -140,8 +147,10 @@
 
 
 + **Assignment** ✍
-    - [Question](https://drive.google.com/file/d/1kEVF3fecl7VEXhiBLIhwYdAn4lUzx-h6/view)
-    - [Answer](https://github.com/oalshokri/rps_game_flutter_tt9)
+#### Question
+ - Build a 'paper rock scissors game' App.
+   - [Question](https://drive.google.com/file/d/1kEVF3fecl7VEXhiBLIhwYdAn4lUzx-h6/view)
+   - [Answer](https://github.com/oalshokri/rps_game_flutter_tt9)
 
 ## Level 7️⃣:-
 #### 📢 Variables, Functions, and Dart Basics
@@ -172,13 +181,24 @@
 
 
 + **Assignment** ✍
+
+#### Based on music app example on  session 08:
+ - use Piano package to build the piano keys and ui.
+ - use flutter_midi package to run(.sf2) files.
+
+#### Attachments:
+ - links for the two packages.
+ - some (sf2) files you can use.
+ - some topics and resources about sf2.
+ - demo video.
+
     - [Piano](https://pub.dev/packages/piano?authuser=0)
     - [flutter_midi](https://pub.dev/packages/flutter_midi?authuser=0)
     - [Best of Guitars](https://drive.google.com/file/d/1RRt4WjhqouURFlhFkOHmbjMwL-9anjgj/view)
     - [Expressive Flute SSO](https://drive.google.com/file/d/1W_AXRgdfUdUVC6ZguY7QK3kH4lDb00FV/view)
     - [Yamaha-Grand-Lite-SF](https://drive.google.com/file/d/1ycAsDQRwR18UgR1j32ASK969Zazu54rA/view)
     - [Free Quality SoundFonts](https://sites.google.com/site/soundfonts4u/?pli=1&authuser=0)
-    - [Screen Recording](https://drive.google.com/file/d/1JqSCXALTC1X8l7n-17DobFZg0J-QOE-r/view)  
+    - [Screen Recording](https://drive.google.com/file/d/1JqSCXALTC1X8l7n-17DobFZg0J-QOE-r/view)   
 
 ## Level 9️⃣:-
 #### 📢 Leveraging Flutter Packages to Speed up development
