@@ -258,7 +258,7 @@
     - [Session 15](https://www.youtube.com/watch?v=aHENFh5leLo)
    
 + **Resources** 📚
-    - [Use themes to share colors and font styles]([https://docs.flutter.dev/cookbook?authuser=0#navigation](https://docs.flutter.dev/cookbook/design/themes))
+    - [Use themes to share colors and font styles](https://docs.flutter.dev/cookbook/design/themes)
     - [ThemeData class](https://api.flutter.dev/flutter/material/ThemeData-class.html)
     - [Color class](https://api.flutter.dev/flutter/dart-ui/Color-class.html)
     - [Colors class](https://api.flutter.dev/flutter/material/Colors-class.html)
