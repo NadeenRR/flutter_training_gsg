@@ -283,3 +283,56 @@
     - [Color class](https://api.flutter.dev/flutter/dart-ui/Color-class.html)
     - [Colors class](https://api.flutter.dev/flutter/material/Colors-class.html)
     - [Hex to Decimal](https://byjus.com/maths/hex-to-decimal/)
+
+## Level 1️⃣6️⃣:-
+#### 📢 creating beautiful UI with flutter for intermediates - P2
+                
++ **Sessions** 👨‍🏫
+    - [Session 16](https://www.youtube.com/watch?v=ZsJE25R0Gcs&authuser=0)
+   
++ **Resources** 📚
+    - [Simple BMI Calculator](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+    - [ColorZilla](https://www.colorzilla.com/?authuser=0)
+    - [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter?authuser=0)
+    - [Fontawesome](https://fontawesome.com/icons?authuser=0)
+    - [GestureDetector class](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html?authuser=0)
+    - [Slider class](https://api.flutter.dev/flutter/material/Slider-class.html?authuser=0)
+    - [FloatingActionButton class](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html?authuser=0)
+    - [ShapeBorder class](https://api.flutter.dev/flutter/painting/ShapeBorder-class.html?authuser=0)
+    - [RawMaterialButton class](https://api.flutter.dev/flutter/material/RawMaterialButton-class.html?authuser=0)
+    - [enabled property](https://api.flutter.dev/flutter/material/RawMaterialButton/enabled.html?authuser=0)
+    - [Body mass index](https://en.wikipedia.org/wiki/Body_mass_index?authuser=0)
+    - [BMI Calculator](https://github.com/oalshokri/bmi_tt9)
+
++ **Assignment** ✍
+
+#### Finishing bmi_tt9 project
+ - Beautiful design and colors based on the design.
+ - Clean architecture and reusable widgets and components.
+ - dmi brain class to collect all functional operations on the app.
+ - Navigate to the result page and give the user useful result and feedback.
+
+
+#### Attachments:
+ - **hint: using the lectures bellow may helping.    (full of lecture 10 and the start of lecture 11)**
+
+    - [lecture 10](https://www.youtube.com/watch?v=hXeqpogFOmc)
+    - [lecture 11](https://www.youtube.com/watch?v=nywsgptjwTk)
+   -  [Answer](https://github.com/oalshokri/rps_game_flutter_tt9)
+
+## Level 1️⃣7️⃣:-
+#### 📢 Powering Flutter Apps with Backend Data
+                
++ **Sessions** 👨‍🏫
+    - [Session 17](https://www.youtube.com/watch?v=PN_mLMOh6MY)
+   
++ **Resources** 📚
+    - [Weather Forecast App UI](https://dribbble.com/shots/21586778-Weather-Forecast-App-UI?authuser=0)
+    - [CustomPainter class](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html?authuser=0)
+    - [Custom painting in Flutter](https://www.youtube.com/watch?v=vvI_NUXK00s&ab_channel=Flutter)
+    - [Canvas class](https://api.flutter.dev/flutter/dart-ui/Canvas-class.html?authuser=0)
+    - [Playing with Paths in Flutter](https://medium.com/flutter-community/playing-with-paths-in-flutter-97198ba046c8)
+    - [Current weather data](https://openweathermap.org/current?authuser=0)
+    - [Api test](https://api.openweathermap.org/data/2.5/weather?lat=31.5196&lon=31.5196&appid=3aee130aaaa0b063d5a640cb73f10be7&authuser=0)
+    - [geolocator](https://pub.dev/packages/geolocator?authuser=0)
+    - **[tt9_weather_app_01](https://github.com/oalshokri/tt9_weather_app_01?authuser=0)**
