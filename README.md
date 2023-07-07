@@ -336,3 +336,88 @@
     - [Api test](https://api.openweathermap.org/data/2.5/weather?lat=31.5196&lon=31.5196&appid=3aee130aaaa0b063d5a640cb73f10be7&authuser=0)
     - [geolocator](https://pub.dev/packages/geolocator?authuser=0)
     - **[tt9_weather_app_01](https://github.com/oalshokri/tt9_weather_app_01?authuser=0)**
+      
++ **Code** 💻 
+   - using CustomPainter class to pint Weather Forecast App UI
+
+   - ## Flutter UI
+      ```dart
+      import 'package:flutter/material.dart';
+
+      class LoadingScreen extends StatefulWidget {
+          const LoadingScreen({super.key});
+
+          @override
+          LoadingScreenState createState() => LoadingScreenState();
+        }
+
+        class LoadingScreenState extends State<LoadingScreen> {
+          @override
+          Widget build(BuildContext context) {
+            return Scaffold(
+              backgroundColor: Colors.grey.shade100,
+              body: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Center(
+                    child: CustomPaint(
+                      size: const Size(300, 200),
+                      painter: MyPainter(),
+                    ),
+                  ),
+                ],
+              ),
+            );
+          }
+        }
+
+        class MyPainter extends CustomPainter {
+          //final double borderRadius;
+
+          final Paint _borderpaint = Paint()
+            ..color = Colors.grey.shade300
+            ..strokeWidth = 1.0
+            ..style = PaintingStyle.stroke
+            ..strokeJoin = StrokeJoin.round;
+
+          final Paint _paint = Paint()
+            ..color = Colors.white
+            ..strokeWidth = 1.0
+            ..style = PaintingStyle.fill
+            ..strokeJoin = StrokeJoin.round;
+
+          //MyPainter(this.borderRadius);
+
+          @override
+          void paint(Canvas canvas, Size size) {
+            double x = size.width;
+            double y = size.height;
+            double arc = 25;
+            double yFactore = y * 0.4;
+            double xFactore = x * 0.5;
+            var path = Path();
+            path.moveTo(arc, 0);
+            path.lineTo((xFactore) - arc, 0);
+            path.quadraticBezierTo(xFactore, 0, xFactore, arc);
+            path.lineTo(xFactore, yFactore - arc);
+            path.quadraticBezierTo(xFactore, yFactore, xFactore + arc, yFactore);
+            path.lineTo(x - arc, yFactore);
+            path.quadraticBezierTo(x, yFactore, x, yFactore + arc);
+            path.lineTo(x, y - arc);
+            path.quadraticBezierTo(x, y, x - arc, y);
+            path.lineTo(arc, y);
+            path.quadraticBezierTo(0, y, 0, y - arc);
+            path.lineTo(0, arc);
+            path.quadraticBezierTo(0, 0, arc, 0);
+
+            canvas.drawPath(path, _paint);
+            canvas.drawPath(path, _borderpaint);
+          }
+
+          @override
+          bool shouldRepaint(covariant CustomPainter oldDelegate) {
+            // TODO: implement shouldRepaint
+            throw true;
+          }
+        }
+      ```
