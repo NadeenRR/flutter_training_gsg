@@ -65,6 +65,7 @@
     - [Change Flutter App Launcher Icon](https://medium.com/flutter-community/change-flutter-app-launcher-icon-59c31bcd7554)
     - [Adding App icons to Your Flutter Apps](https://www.youtube.com/watch?v=hpQenyqxTmw)
     - [Change App Icon and App Name](https://www.youtube.com/watch?v=eMHbgIgJyUQ)
+    - [IconKitchen](https://icon.kitchen/i/H4sIAAAAAAAAA6tWKkvMKU0tVrKqVkpJLMoOyUjNTVWySkvMKU6t1VHKzU8pzQHJRisl5qUU5WemKOkoZeYXA8ny1CSl2FoApT8%2BHkAAAAA%3D)
     - [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
     - [Introduction to widgets](https://docs.flutter.dev/ui/widgets-intro)
     - [Image asset constructor](https://api.flutter.dev/flutter/widgets/Image/Image.asset.html)
