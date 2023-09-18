@@ -422,3 +422,314 @@
           }
         }
       ```
+
+## Level 1️⃣8️⃣:-
+#### 📢 Powering Flutter Apps with Backend Data P2
+                
++ **Sessions** 👨‍🏫
+    - [Session 18](https://www.youtube.com/watch?v=_vN0wYZOF7g&ab_channel=GSGTechnicalTraining)
+   
++ **Resources** 📚
+    - [example project](https://github.com/oalshokri/tt9_weather_app_01)
+    - [App Design](https://dribbble.com/shots/4663154-/attachments/10523252?mode=media&authuser=0)
+    - [Generate Random Images From Unsplash](https://awik.io/generate-random-images-unsplash-without-using-api/?authuser=0)
+    - [ImageFiltered class](https://api.flutter.dev/flutter/widgets/ImageFiltered-class.html?authuser=0)
+    - [ImageFiltered](https://www.youtube.com/watch?v=7Lftorq4i2o&ab_channel=Flutter)
+    - [ImageFilter class](https://api.flutter.dev/flutter/dart-ui/ImageFilter-class.html?authuser=0)
+    - [ImageFilter.blur constructor](https://api.flutter.dev/flutter/dart-ui/ImageFilter/ImageFilter.blur.html?authuser=0)
+    - [blur effect on a Container](https://stackoverflow.com/questions/53886850/how-to-blur-a-container-or-any-widget-in-flutter?authuser=0)
+    - [geolocator](https://pub.dev/packages/geolocator?authuser=0)
+    - [Futures and error handling](https://dart.dev/guides/libraries/futures-error-handling?authuser=0)
+    - [When to use async...](https://jelenaaa.medium.com/when-to-use-async-await-then-and-future-in-dart-5e00e64ab9b1)
+    - [Asynchronous programming](https://dart.dev/codelabs/async-await?authuser=0)
+
+
+## Level 1️⃣9️⃣:-
+#### 📢 Powering Flutter Apps with Backend Data P3
+                
++ **Sessions** 👨‍🏫
+    - [Session 19](https://www.youtube.com/watch?v=KaQkG60hkoU&ab_channel=GSGTechnicalTraining)
+   
++ **Resources** 📚
+    - [REST APIs Explained](https://mannhowie.com/rest-api?authuser=0)
+    - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status?authuser=0#successful_responses)
+    - [http ](https://pub.dev/packages/http?authuser=0)
+    - [Fetch data from the internet](https://docs.flutter.dev/cookbook/networking/fetch-data?authuser=0)
+    - [Response class](https://pub.dev/documentation/http/latest/http/Response-class.html?authuser=0)
+
+    
+## Level 2️⃣0️⃣:-
+#### 📢 Powering Flutter Apps with Backend Data P4
+                
++ **Sessions** 👨‍🏫
+    - [Session 20](https://www.youtube.com/watch?v=MMA59XT3M-E&ab_channel=GSGTechnicalTraining)
+   
++ **Resources** 📚
+    - [ImageStream class](https://api.flutter.dev/flutter/painting/ImageStream-class.html?authuser=0)
+    - [Public APIs](https://github.com/public-apis/public-apis?authuser=0)
+
+
+## Level 2️⃣1️⃣:-
+#### 📢 Powering Flutter Apps with Backend Data P5
+                
++ **Sessions** 👨‍🏫
+    - [Session 21](https://www.youtube.com/watch?v=9yFgrSRDP-g&ab_channel=GSGTechnicalTraining)
+   
++ **Resources** 📚
+    - [Quran API](https://alquran.cloud/api?authuser=0)
+    - [JSON to Dart](https://javiercbk.github.io/json_to_dart/?authuser=0)
+    - [منصة مطوري برمجيات القرآن الكريم](https://qurancomplex.gov.sa/techquran/dev/?authuser=0)
+    - [Directionality class](https://api.flutter.dev/flutter/widgets/Directionality-class.html?authuser=0)
+    - [TextDirection enum](https://api.flutter.dev/flutter/dart-ui/TextDirection.html?authuser=0)
+    - [RichText class](https://api.flutter.dev/flutter/widgets/RichText-class.html?authuser=0)
+    - [RichText](https://www.youtube.com/watch?v=rykDVh-QFfw&ab_channel=Flutter)
+    - [InlineSpan class](https://api.flutter.dev/flutter/painting/InlineSpan-class.html?authuser=0)
+    - [AssetBundle class](https://api.flutter.dev/flutter/services/AssetBundle-class.html?authuser=0)
+
+
+## Level 2️⃣2️⃣:-
+#### 📢 Finishing Quran App
+                
++ **Sessions** 👨‍🏫
+    - [Session 22](https://www.youtube.com/watch?v=1G-h-QltFUQ&ab_channel=GSGTechnicalTraining)
+
+
+## Level 2️⃣3️⃣:-
+#### 📢 Quiz
+                
++ **Sessions** 👨‍🏫
+    - [Session 23](https://www.youtube.com/watch?v=co_nECOHRJw&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Trainees Quiz](https://github.com/oalshokri/tt9_q1/tree/master)
+    - [Documentation](https://random.imagecdn.app/v1/docs?authuser=0)
+    - [Quote Right SVG Vector](https://www.svgrepo.com/svg/394379/quote-right?authuser=0)
+    - [video](https://drive.google.com/file/d/1ZEQth2dU1_9mE89nOeHB9SvT1i1GJQwR/view)
+
+
+## Level 2️⃣4️⃣:-
+#### 📢 Isolate, Future, and Future Builder
+                
++ **Sessions** 👨‍🏫
+    - [Session 24](https://www.youtube.com/watch?v=_YBpv1hqGeQ&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Async vs Isolates](https://www.youtube.com/watch?v=5AxWC49ZMzs&ab_channel=Flutter)
+    - [Difference between DART Isolate and Thread](https://stackoverflow.com/questions/14957253/difference-between-dart-isolate-and-thread-java-c?authuser=0)
+    - [Dart Futures - Flutter in Focus](https://www.youtube.com/watch?v=OTS-ap9_aXc&ab_channel=Flutter)
+    - [Futures and Streams](https://www.youtube.com/watch?v=lkpPg0ieklg&ab_channel=HeyFlutter%E2%80%A4com)
+    - [Async/Await - Flutter in Focus](https://www.youtube.com/watch?v=SmTCmDMi4BY&ab_channel=Flutter)
+    - [isolate_future_futureBuilder_demo](https://github.com/oalshokri/isolate_future_futureBuilder_demo?authuser=0)
+
+
+## Level 2️⃣5️⃣:-
+#### 📢 Full Stack System Development (information only)
+                
++ **Sessions** 👨‍🏫
+    - [Session 25](https://www.youtube.com/watch?v=mgmRRXdeu8s&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [requirements and related works](https://docs.google.com/presentation/d/1VxRQd3WlZwd5cPuWSbDoUJheWNd1PNJ3dxNZ9mcIeG0/edit#slide=id.g2580b1e49e5_0_6)
+    - [betweener IA.drawio](https://drive.google.com/file/d/1poNACx3_AIRh6wKkQ6X3knWYpv1Bmyk8/view)
+    - [Betweener ERD.drawio](https://drive.google.com/file/d/1zWzZDloIYnV2o4Vf2Va8AeV2qUnZLq1O/view)
+    - [betweener-laravel-01](https://github.com/oalshokri/betweener-laravel-01)
+    - [figma](https://www.figma.com/file/2aFDXqEJroIkjTOzpwde0O/Scan-QR?type=design&node-id=0%3A1&mode=design&t=D8MbdVqdnLwU7TPR-1)
+
+ 
+## Level 2️⃣6️⃣:-
+#### 📢 Full Stack System Development P2
+                
++ **Sessions** 👨‍🏫
+    - [Session 26](https://www.youtube.com/watch?v=URU_j4JwvYM&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [postman](https://www.postman.com/?authuser=0)
+    - [betweener.postman_collection.json](https://classroom.google.com/w/NjA3NTUyNzE3NjM2/tc/NjE3MTEyNjUwODk3)
+    - [Build a form with validation](https://docs.flutter.dev/cookbook/forms/validation)
+    - [Flutter form validation](https://blog.logrocket.com/flutter-form-validation-complete-guide/)
+    - [betweener_app](https://github.com/oalshokri/tt9_betweener_app)
+
+
+## Level 2️⃣7️⃣:-
+#### 📢 Challenge Day: Betweener App
+                
++ **Sessions** 👨‍🏫
+    - [Session 27](https://www.youtube.com/watch?v=8LasjKEX7uw&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [betweener_challenge](https://github.com/A7medhq/tt9_betweener_challenge?authuser=0)
+    - [Fetch data from the internet](https://docs.flutter.dev/cookbook/networking/fetch-data)
+    - [quicktype](https://app.quicktype.io/?l=dart)
+    - [shared_preferences](https://pub.dev/packages/shared_preferences)
+    - [Betweener App Register - Add, Edit and Delet](https://www.youtube.com/watch?v=48Crq5EssM8&ab_channel=GSGTechnicalTraining)
+    - [Betweener App || Search](https://www.youtube.com/watch?v=eWB4xmGoQVU&ab_channel=GSGTechnicalTraining)
+    - [Betweener App || Follow Feature || part 1](https://www.youtube.com/watch?v=23hq3jzpLW8&ab_channel=GSGTechnicalTraining)
+    - [Betweener App || Follow Feature || part 2](https://www.youtube.com/watch?v=Ec3OA-Nr_eQ&ab_channel=GSGTechnicalTraining)
+   
+
+## Level 2️⃣8️⃣:-
+#### 📢 Introduction to Flutter Animations
+                
++ **Sessions** 👨‍🏫
+    - [Session 28](https://www.youtube.com/watch?v=fBfkyvzKMjU&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Hero animations](https://docs.flutter.dev/ui/animations/hero-animations?authuser=0)
+    - [Introduction to animations](https://docs.flutter.dev/ui/animations?authuser=0)
+    - [How to Choose Which Flutter Animation Widget is Right for You?](https://medium.com/flutter/how-to-choose-which-flutter-animation-widget-is-right-for-you-79ecfb7e72b5)
+    - [How to Choose Which Flutter Animation](https://www.youtube.com/watch?v=GXIJJkq_H8g&ab_channel=Flutter)
+    - [ImplicitlyAnimatedWidget class](https://api.flutter.dev/flutter/widgets/ImplicitlyAnimatedWidget-class.html)
+    - [TweenAnimationBuilder](https://api.flutter.dev/flutter/widgets/TweenAnimationBuilder-class.html)
+    - [animation_in_flutter](https://github.com/oalshokri/animation_in_flutter)
+
+
+## Level 2️⃣9️⃣:-
+#### 📢 Integrating Flutter Apps with Firebase
+                
++ **Sessions** 👨‍🏫
+    - [Session 29](https://www.youtube.com/watch?v=tsbFw4-wIAU&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Mixins](https://dart.dev/language/mixins?authuser=0)
+    - [animated_text_kit](https://pub.dev/packages/animated_text_kit)
+    - [Add Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup?platform=android)
+    - [Firebase CLI reference](https://firebase.google.com/docs/cli#setup_update_cli)
+    - [Get Started with Firebase Authentication on Flutter](https://firebase.google.com/docs/auth/flutter/start?authuser=0)
+    - [What is a NoSQL Database?](https://www.youtube.com/watch?v=v_hR4K4auoQ&ab_channel=Firebase)
+    - [tt9_chat_app_st](https://github.com/oalshokri/tt9_chat_app_st)
+
+
+
+## Level 3️⃣0️⃣:-
+#### 📢 Integrating Flutter Apps with Firebase P2
+                
++ **Sessions** 👨‍🏫
+    - [Session 30](https://www.youtube.com/watch?v=tZeemQ9ZR6c&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Federated identity & social sign-in](https://firebase.google.com/docs/auth/flutter/federated-auth?hl=en&authuser=0)
+    - [google_sign_in](https://pub.dev/packages/google_sign_in?authuser=0)
+    - [keytool...](https://codewithandrea.com/articles/keytool-command-not-found-how-to-fix-windows-macos/?authuser=0)
+    - [Photo](https://drive.google.com/file/d/1dUHAP_bsiR7kyZl2rJiJKM4v-jK7NPFH/view)
+    - [StreamBuilder<T> class](https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html)
+    - [Get started with Cloud Firestore](https://firebase.google.com/docs/firestore/quickstart)
+
+
+## Level 3️⃣1️⃣:-
+#### 📢 Introduction to State Management p1
+                
++ **Sessions** 👨‍🏫
+    - [Session 31](https://www.youtube.com/watch?v=j01piC90MqQ&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Basic Security Rules](https://firebase.google.com/docs/rules/basics?authuser=0)
+    - [BottomSheet class](https://api.flutter.dev/flutter/material/BottomSheet-class.html?authuser=0)
+    - [showModalBottomSheet<T> function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
+    - [State management](https://docs.flutter.dev/data-and-backend/state-mgmt/intro)
+    - [How to debounce Textfield onChange in Dart?](https://stackoverflow.com/questions/51791501/how-to-debounce-textfield-onchange-in-dart)
+
+
+## Level 3️⃣2️⃣:-
+#### 📢 Introduction to State Management p2
+                
++ **Sessions** 👨‍🏫
+    - [Session 32](https://www.youtube.com/watch?v=NARHkUfCUgo&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Pragmatic State Management in Flutter](https://www.youtube.com/watch?v=d_m5csmrf7I&ab_channel=Flutter)
+    - [InheritedWidget class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
+    - [state_demo](https://github.com/oalshokri/state_demo)
+    - [provider](https://pub.dev/packages/provider)
+
+
+## Level 3️⃣3️⃣:-
+#### 📢 Google Maps & Easy Localization
+                
++ **Sessions** 👨‍🏫
+    - [Session 33](https://www.youtube.com/watch?v=-Mr-6jMKyJ8&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter?authuser=0#1)
+    - [Open Google Maps app if available with flutter](https://stackoverflow.com/questions/47046637/open-google-maps-app-if-available-with-flutter?authuser=0)
+    - [geocoding](https://pub.dev/packages/geocoding)
+    - [BuildContext in Flutter](https://www.youtube.com/watch?v=WqTslG8Bpss&ab_channel=%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%88%D9%86%D9%81%D9%8A%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-DevMENA)
+    - [easy_localization](https://pub.dev/packages/easy_localization)
+    - [Easy Localization for Flutter Apps](https://medium.com/@omer28gunaydin/easy-localization-for-flutter-apps-49e5a738a61)
+    - [Internationalizing your app with Flutter’s](https://blog.logrocket.com/internationalizing-app-flutter-easy-localization/)
+    - [Google Map tutorial](https://www.youtube.com/watch?v=EYcslTjRqCY&ab_channel=CodeX)
+
+
+## Level 3️⃣4️⃣:-
+#### 📢 Notifications - Firebase Cloud Messaging (FCM)
+                
++ **Sessions** 👨‍🏫
+    - [Session 34](https://www.youtube.com/watch?v=U54LSiDGm1Q&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [AppLifeCycleState Management](https://medium.com/knowledgelens/flutter-applifecyclestate-management-3cc745f0170d)
+    - [Let’s Utilize the Flutter App Lifecycle](https://levelup.gitconnected.com/lets-utilize-the-flutter-app-lifecycle-388121533fd9)
+    - [Set up a Firebase Cloud Messaging client app on Flutter](https://firebase.google.com/docs/cloud-messaging/flutter/client)
+    - [Send a test message to a backgrounded app](https://firebase.google.com/docs/cloud-messaging/flutter/first-message)
+    - [Receive messages in a Flutter app](https://firebase.google.com/docs/cloud-messaging/flutter/receive)
+    - [Topic messaging on Flutter](https://firebase.google.com/docs/cloud-messaging/flutter/topic-messaging)
+
+
+## Level 3️⃣5️⃣:-
+#### 📢 App Architecture and Http Request Handler
+                
++ **Sessions** 👨‍🏫
+    - [Session 35](https://www.youtube.com/watch?v=tFmCaQhzgGs&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [visibility_detector](https://pub.dev/packages/visibility_detector)
+    - [httphandler_flutter](https://github.com/oalshokri/httphandler_flutter)
+
+
+## Level 3️⃣6️⃣:-
+#### 📢 Final Project & Customize GitHub
+                
++ **Sessions** 👨‍🏫
+    - [Session 36](https://www.youtube.com/watch?v=sXh1PbtqPp0&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [GitHub Profile README](https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda)
+
+
+## Level 3️⃣7️⃣:-
+#### 📢 Writing custom platform-specific code
+                
++ **Sessions** 👨‍🏫
+    - [Session 37](https://www.youtube.com/watch?v=cbFluZXhwbc&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [ATS](https://www.jobscan.co/blog/8-things-you-need-to-know-about-applicant-tracking-systems/?authuser=0)
+    - [ATS systems](https://career-advice.jobs.ac.uk/cv-and-cover-letter-advice/cv-tips/ats-systems-and-your-cv-5-things-you-need-to-know/)
+    - [Writing custom platform-specific code](https://docs.flutter.dev/platform-integration/platform-channels?tab=type-mappings-java-tab)
+   - [Add POS Q1 printer SDK to Flutter App](https://www.youtube.com/watch?v=qcIdJdhKQfU&ab_channel=%D8%A3%D8%B3%D8%A7%D9%85%D8%A9%D9%85%D8%AD%D9%85%D8%AF)
+    - [add SDK of mobi-mp3+](https://www.youtube.com/watch?v=7-5WSvGNTnw&ab_channel=%D8%A3%D8%B3%D8%A7%D9%85%D8%A9%D9%85%D8%AD%D9%85%D8%AF)
+
+
+
+## Level 3️⃣8️⃣:-
+#### 📢 Publishing Apps on Google Play
+                
++ **Sessions** 👨‍🏫
+    - [Session 38](https://www.youtube.com/watch?v=saSZul2Jlrw&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [Build and release an Android app](https://docs.flutter.dev/deployment/android?authuser=0)
+    - [IconKitchen](https://icon.kitchen/i/H4sIAAAAAAAAAzWOsQ6DMAxE%2F%2BW6sqCKhZVPaLeqqkzihAhDUELaAfHvdSrVgy0923d34E1SOKM%2FYCnN94kXRu9IMjdwfpCwUdrrOrMOWHZUZEeDYOKqgGx%2BGQlmxtlg9LeJNhWACckI69nohygxKbq4XylT3T%2Bja9u1Xf1doi1SkzxAq00x2GoSs%2FYPj3ieX3oah1SsAAAA)
+    - [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
+   - [rename](https://pub.dev/packages/rename)
+    - [How To Publish Flutter App On Play Store](https://www.youtube.com/watch?v=g0GNuoCOtaQ&ab_channel=HeyFlutter%E2%80%A4com)
+
+
+## Level 3️⃣9️⃣:-
+#### 📢 Flutter Payments
+                
++ **Sessions** 👨‍🏫
+    - [Session 39](https://www.youtube.com/watch?v=8KgjH7Fcb-Y&ab_channel=GSGTechnicalTraining) 
+
++ **Resources** 📚
+    - [stripe_paypal_example](https://github.com/A7medhq/stripe_paypal_example)
+    - [flutter_stripe](https://pub.dev/packages/flutter_stripe#installation)
